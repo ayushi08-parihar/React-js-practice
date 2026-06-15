@@ -246,8 +246,7 @@ function BookList() {
         img={firstBook.img}
       >
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque
-          repudiandae inventore eos qui animi sed iusto alias eius ea sapiente.
+           hrelooo jiii
         </p>
         <button>click me</button>
       </Book>
